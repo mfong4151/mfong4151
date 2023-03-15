@@ -1,11 +1,15 @@
-### Hi there 👋
+# Maxwell Fong - Software Engineer
 
 
+### About me
 
-- 🔭 I’m currently working on: Getting a job! Just graduated from my coding bootcamp and I'm looking for employment!
-- 🌱 I’m currently learning: I want to improve on my C++ skills.
-- 👯 I’m looking to collaborate on: Exciting projects with big ideas.
-- 💬 Ask me about: Anything! Well, almost anything.
-- 📫 How to reach me: email: mfong415@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I lived in China for two years.
+I caught the coding bug during a college elective, but really started getting into it when I went to work for my dad. I spent the first few years of my career optimizing his company's SEO, and automating tasks around the office. After I retired him, I felt the next logical conclusion would be to explore software developement.
+
+### Project Highlights:
+
+- Suber Eats: Uber Eats full-stack clone
+- https://suber-eats.onrender.com/
+
+### Contact Info
+- Email: mfong415@gmail.com
+- Linkedin: https://www.linkedin.com/in/mfong415/
